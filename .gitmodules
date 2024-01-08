@@ -1,3 +1,6 @@
 [submodule "move"]
 	path = move
 	url = https://github.com/MadhusreeBera/Micropayment-hash-move
+[submodule "client"]
+	path = client
+	url = https://github.com/MadhusreeBera/Micropayment-client
